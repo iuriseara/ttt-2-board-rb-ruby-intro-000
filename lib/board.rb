@@ -1,4 +1,3 @@
 # Define the variable board below.
-top_row = ["", "", ""]
-middle_row = ["", "", ""]
-bottom_row = ["", "", ""]
+board = ["row", "row", "row"]
+row = ["", "", ""]
